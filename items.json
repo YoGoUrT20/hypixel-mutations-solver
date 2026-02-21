@@ -1,0 +1,435 @@
+{
+    "ASHWREATH": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "NETHER_STALK": 4,
+            "FIRE": 4
+        },
+        "drop": {
+            "NETHER_STALK": 720
+        }
+    },
+    "CHOCONUT": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "INK_SACK:3": 4
+        },
+        "drop": {
+            "INK_SACK:3": 400
+        }
+    },
+    "DUSTGRAIN": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "WHEAT": 4
+        },
+        "drop": {
+            "WHEAT": 200
+        }
+    },
+    "GLOOMGOURD": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "PUMPKIN": 1,
+            "MELON": 1
+        },
+        "drop": {
+            "PUMPKIN": 60,
+            "MELON": 280
+        }
+    },
+    "SCOURROOT": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "POTATO_ITEM": 2,
+            "CARROT_ITEM": 2
+        },
+        "drop": {
+            "POTATO_ITEM": 210,
+            "CARROT_ITEM": 245
+        }
+    },
+    "SHADEVINE": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "CACTUS": 2,
+            "SUGAR_CANE": 2
+        },
+        "drop": {
+            "CACTUS": 135,
+            "SUGAR_CANE": 180
+        }
+    },
+    "VEILSHROOM": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "RED_MUSHROOM": 2,
+            "BROWN_MUSHROOM": 2
+        },
+        "drop": {
+            "RED_MUSHROOM": 66,
+            "BROWN_MUSHROOM": 66
+        }
+    },
+    "WITHERBLOOM": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "DEAD_PLANT": 8
+        },
+        "drop": {
+            "WILD_ROSE": 600
+        }
+    },
+    "CHOCOBERRY": {
+        "size": 1,
+        "stages": 6,
+        "made_of": {
+            "CHOCONUT": 6,
+            "GLOOMGOURD": 2
+        },
+        "drop": {
+            "INK_SACK:3": 400,
+            "PUMPKIN": 170,
+            "MELON": 1600
+        }
+    },
+    "CINDERSHADE": {
+        "size": 1,
+        "stages": 8,
+        "made_of": {
+            "ASHWREATH": 4,
+            "WITHERBLOOM": 4
+        },
+        "drop": {
+            "NETHER_STALK": 1200,
+            "WILD_ROSE": 800
+        }
+    },
+    "COALROOT": {
+        "size": 1,
+        "stages": 8,
+        "made_of": {
+            "ASHWREATH": 5,
+            "SCOURROOT": 3
+        },
+        "drop": {
+            "POTATO_ITEM": 600,
+            "CARROT_ITEM": 1400,
+            "NETHER_STALK": 600
+        }
+    },
+    "CREAMBLOOM": {
+        "size": 1,
+        "stages": 6,
+        "made_of": {
+            "CHOCONUT": 8
+        },
+        "drop": {
+            "INK_SACK:3": 1600
+        }
+    },
+    "DUSKBLOOM": {
+        "size": 1,
+        "stages": 8,
+        "made_of": {
+            "MOONFLOWER": 2,
+            "SHADEVINE": 2,
+            "SUGAR_CANE": 2,
+            "DUSTGRAIN": 2
+        },
+        "drop": {
+            "MOONFLOWER": 533,
+            "DOUBLE_PLANT": 533,
+            "WHEAT": 267
+        }
+    },
+    "THORNSHADE": {
+        "size": 1,
+        "stages": 8,
+        "made_of": {
+            "WILD_ROSE": 4,
+            "VEILSHROOM": 4
+        },
+        "drop": {
+            "RED_MUSHROOM": 190,
+            "BROWN_MUSHROOM": 190,
+            "WILD_ROSE": 800
+        }
+    },
+    "BLASTBERRY": {
+        "size": 1,
+        "explodes_on_harvest": true,
+        "stages": 6,
+        "made_of": {
+            "CHOCOBERRY": 5,
+            "ASHWREATH": 3
+        },
+        "drop": {
+            "INK_SACK:3": 1200,
+            "NETHER_STALK": 1800
+        }
+    },
+    "CHEESEBITE": {
+        "size": 1,
+        "stages": 10,
+        "made_of": {
+            "CREAMBLOOM": 4,
+            "FERMENTO": 4
+        },
+        "drop": {
+            "BROWN_MUSHROOM": 190,
+            "RED_MUSHROOM": 190,
+            "CACTUS": 600,
+            "SUGAR_CANE": 800
+        }
+    },
+    "CHLORONITE": {
+        "size": 1,
+        "stages": 10,
+        "made_of": {
+            "COALROOT": 6,
+            "THORNSHADE": 2
+        },
+        "drop": {
+            "BROWN_MUSHROOM": 95,
+            "POTATO_ITEM": 600,
+            "CARROT_ITEM": 700,
+            "RED_MUSHROOM": 95,
+            "WILD_ROSE": 400
+        }
+    },
+    "DO_NOT_EAT_SHROOM": {
+        "size": 1,
+        "stages": 8,
+        "made_of": {
+            "VEILSHROOM": 4,
+            "SCOURROOT": 4
+        },
+        "drop": {
+            "BROWN_MUSHROOM": 380,
+            "POTATO_ITEM": 1200,
+            "CARROT_ITEM": 1400,
+            "RED_MUSHROOM": 380
+        }
+    },
+    "FLESHTRAP": {
+        "size": 1,
+        "stages": 14,
+        "made_of": {
+            "CINDERSHADE": 4,
+            "LONELILY": 4
+        },
+        "drop": {
+            "POTATO_ITEM": 1200,
+            "CARROT_ITEM": 1400,
+            "PUMPKIN": 680
+        }
+    },
+    "MAGIC_JELLYBEAN": {
+        "size": 1,
+        "stages": 10,
+        "made_of": {
+            "SUGAR_CANE": 5,
+            "DUSKBLOOM": 3
+        },
+        "drop": {
+            "MOONFLOWER": 600,
+            "DOUBLE_PLANT": 600,
+            "SUGAR_CANE": 1200
+        }
+    },
+    "NOCTILUME": {
+        "size": 2,
+        "stages": 4,
+        "made_of": {
+            "DUSKBLOOM": 6,
+            "LONELILY": 6
+        },
+        "drop": {
+            "CACTUS": 1200,
+            "WILD_ROSE": 1600
+        }
+    },
+    "SNOOZLING": {
+        "size": 3,
+        "stages": 20,
+        "made_of": {
+            "CREAMBLOOM": 4,
+            "DUSTGRAIN": 3,
+            "WITHERBLOOM": 3,
+            "DUSKBLOOM": 3,
+            "THORNSHADE": 3
+        },
+        "drop": {
+            "MOONFLOWER": 800,
+            "DOUBLE_PLANT": 800,
+            "CACTUS": 600,
+            "SUGAR_CANE": 800
+        }
+    },
+    "SOGGYBUD": {
+        "size": 1,
+        "stages": 10,
+        "made_of": {
+            "MELON": 8
+        },
+        "drop": {
+            "MELON": 3200
+        }
+    },
+    "CHORUS_FRUIT": {
+        "size": 1,
+        "destructive": true,
+        "stages": 12,
+        "made_of": {
+            "CHLORONITE": 5,
+            "MAGIC_JELLYBEAN": 3
+        },
+        "drop": {
+            "POTATO_ITEM": 1500,
+            "CARROT_ITEM": 1750,
+            "SUGAR_CANE": 2000
+        }
+    },
+    "PLANTBOY_ADVANCE": {
+        "size": 2,
+        "stages": 12,
+        "made_of": {
+            "SNOOZLING": 6,
+            "THUNDERLING": 6
+        }
+    },
+    "PUFFERCLOUD": {
+        "size": 1,
+        "stages": 14,
+        "made_of": {
+            "SNOOZLING": 2,
+            "DO_NOT_EAT_SHROOM": 6
+        },
+        "drop": {
+            "BROWN_MUSHROOM": 665,
+            "MOONFLOWER": 1400,
+            "DOUBLE_PLANT": 1400,
+            "RED_MUSHROOM": 665
+        }
+    },
+    "SHELLFRUIT": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "TURTLELLINI": 1
+        },
+        "drop": {
+            "INK_SACK:3": 400,
+            "MELON": 800
+        }
+    },
+    "STARTLEVINE": {
+        "size": 1,
+        "stages": 12,
+        "made_of": {
+            "BLASTBERRY": 4,
+            "CHEESEBITE": 4
+        },
+        "drop": {
+            "CACTUS": 1500,
+            "SUGAR_CANE": 2000
+        }
+    },
+    "STOPLIGHT_PETAL": {
+        "size": 2,
+        "stages": 12,
+        "made_of": {
+            "SNOOZLING": 4,
+            "NOCTILUME": 4
+        }
+    },
+    "THUNDERLING": {
+        "size": 1,
+        "stages": 16,
+        "made_of": {
+            "SOGGYBUD": 5,
+            "NOCTILUME": 3
+        },
+        "drop": {
+            "CACTUS": 900,
+            "MELON": 2400,
+            "WILD_ROSE": 2400
+        }
+    },
+    "TURTLELLINI": {
+        "size": 1,
+        "stages": 1,
+        "made_of": {
+            "SOGGYBUD": 4,
+            "CHOCONUT": 4
+        }
+    },
+    "ZOMBUD": {
+        "size": 1,
+        "stages": 16,
+        "made_of": {
+            "DEAD_PLANT": 4,
+            "CINDERSHADE": 2,
+            "FLESHTRAP": 2
+        },
+        "drop": {
+            "PUMPKIN": 1190,
+            "WILD_ROSE": 2800
+        }
+    },
+    "ALL_IN_ALOE": {
+        "size": 1,
+        "stages": 27,
+        "made_of": {
+            "MAGIC_JELLYBEAN": 6,
+            "PLANTBOY_ADVANCE": 2
+        }
+    },
+    "DEVOURER": {
+        "size": 1,
+        "destructive": true,
+        "stages": 16,
+        "made_of": {
+            "PUFFERCLOUD": 4,
+            "ZOMBUD": 4
+        }
+    },
+    "GLASSCORN": {
+        "size": 2,
+        "stages": 9,
+        "made_of": {
+            "STARTLEVINE": 6,
+            "CHLORONITE": 6
+        },
+        "drop": {
+            "POTATO_ITEM": 4800,
+            "CACTUS": 2400
+        }
+    },
+    "PHANTOMLEAF": {
+        "size": 1,
+        "stages": 15,
+        "made_of": {
+            "CHORUS_FRUIT": 4,
+            "SHELLFRUIT": 4
+        }
+    },
+    "TIMESTALK": {
+        "size": 1,
+        "stages": 14,
+        "made_of": {
+            "STOPLIGHT_PETAL": 4,
+            "CHORUS_FRUIT": 2,
+            "SHELLFRUIT": 2
+        }
+    }
+}
