@@ -82,7 +82,7 @@
         "size": 1,
         "stages": 1,
         "made_of": {
-            "DEAD_PLANT": 8
+            "DEAD_PLANT": 4
         },
         "drop": {
             "WILD_ROSE": 300
